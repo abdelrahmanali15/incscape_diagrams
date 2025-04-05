@@ -51,3 +51,7 @@ To make these configurations the default for future Inkscape sessions:
 3. Restart Inkscape.
 
 This ensures that you won't need to repeat these steps each time you open Inkscape.
+
+## This work belongs to:
+- https://www.youtube.com/watch?v=uQDgtME-7DQ
+- https://www.youtube.com/watch?v=ITpjjDETGk8
